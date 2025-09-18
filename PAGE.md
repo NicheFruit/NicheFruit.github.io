@@ -1,5 +1,2 @@
-## NicheFruit:
-
-#Welcome:
-
+# NicheFruit:
 ![apple](applet.png)
