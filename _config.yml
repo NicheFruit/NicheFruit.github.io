@@ -1,1 +1,7 @@
 title: "NicheFruit | Welcome"
+email: I'mNotGivingYouMyEmail@gmail.com
+description: >- # this means the description can span multiple lines
+  Uh, Yeah.
+  Uhhhhhhhhhhhh yuh.
+url: "https://NicheFruit.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal
