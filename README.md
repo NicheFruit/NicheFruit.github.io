@@ -1,6 +1,9 @@
+<link rel="shortcut icon" type="image/png" href="applet.png">
+
+## NicheFruit's Website! 🙊
 ![apple](applet.png)
 
-Hi, I do Java:
+Hi, I do Java 😱:
 ```
 //Some Simple Java
 public class HelloWorld {
@@ -15,7 +18,7 @@ static String hello(String Hello) {
 ```
 \
 \
-Alr, heres something for fun:
+Alr, heres something for fun 😡:
 
 ```
 import javax.swing.JOptionPane;
