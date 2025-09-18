@@ -47,4 +47,4 @@ public class Main {
     }
   }
 ```
-# You wanna check you my [Github?](https://github.com/NicheFruit)
+# You wanna check out my [Github?](https://github.com/NicheFruit)
