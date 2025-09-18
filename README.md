@@ -1,6 +1,6 @@
-<link rel="shortcut icon" type="image/png" href="applet.png">
+<link rel="shortcut icon" type="image/png" href="appleT2.png">
 
-![apple](applet.png)
+![apple](appleT2.png)
 
 Hi, I do Java 😱:
 ```
