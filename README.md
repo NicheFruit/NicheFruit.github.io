@@ -1,6 +1,5 @@
 <link rel="shortcut icon" type="image/png" href="applet.png">
 
-## NicheFruit's Website! 🙊
 ![apple](applet.png)
 
 Hi, I do Java 😱:
