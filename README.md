@@ -1,4 +1,3 @@
-# NicheFruit:
 ![apple](applet.png)
 
 Hi, I do Java:
