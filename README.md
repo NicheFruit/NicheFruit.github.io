@@ -1,5 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="appleT2.png">
 
+> Pssst - Scroll down!
+
 ![apple](appleT2.png)
 
 ## About Me:
