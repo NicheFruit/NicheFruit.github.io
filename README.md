@@ -13,7 +13,7 @@ Also, why is there a `mandarin` in my toaster? Did `Kendrick` put it there? Did 
 
 ## Programming & Stuff 💻: 
  \
-Hi, I do typically program in `Java☕` 😱:
+Hi, I do typically program in `Java☕`:
 ```
 //Some Simple Java
 public class HelloWorld {
@@ -28,7 +28,7 @@ static String hello(String Hello) {
 ```
 \
 \
-Heres `something🧱` for fun 😡:
+Heres `something🧱` for fun:
 
 ```
 import javax.swing.JOptionPane;
