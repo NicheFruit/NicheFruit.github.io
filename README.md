@@ -12,8 +12,9 @@ Also, why is there a `mandarin` in my toaster? Did `Kendrick` put it there? Did 
 
 
 ## Programming & Stuff 💻: 
+# You wanna check out my [Github?](https://github.com/NicheFruit) 
  \
-Hi, I do typically program in `Java☕`:
+Hi, I do typically program in `Java`:
 ```
 //Some Simple Java
 public class HelloWorld {
@@ -26,39 +27,9 @@ static String hello(String Hello) {
   }
 }
 ```
-\
-\
-Heres `something🧱` for fun:
+## Downloads & Stuff:
+- [Downloads](https://sourceforge.net/projects/del/)
+- [Games](url)
+- [Websites](url)
+- [Tutorial Videos](url)
 
-```
-import javax.swing.JOptionPane;
-
-public class Main {
-    public static void main(String[] args) {
-        fun();
-    }
-  static void fun(){
-    String Letter = JOptionPane.showInputDialog(null, "Type the following letter \'L\'");
-    
-    System.out.println(Letter);
-        
-    if (Letter.equalsIgnoreCase("L")) {
-      
-      JOptionPane.showConfirmDialog(null, "Yes", "Click \'Yes\'", JOptionPane.WARNING_MESSAGE);
-
-      while (true) {
-        JOptionPane.showMessageDialog(null, "YOUR COMPUTOR HAS A VIRUS!", "VIRUS DETECTED", JOptionPane.ERROR_MESSAGE);
-        
-      }
-      
-      } else {
-      JOptionPane.showMessageDialog(null, "You think your funny");
-      fun();
-      }
-    }
-  }
-```
-
-> 67 Mango Mustard, `Kendrick` glazzer 41.
-
-# You wanna check out my [Github?](https://github.com/NicheFruit) 
