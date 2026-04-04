@@ -42,7 +42,78 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
 ## Java Example
 
 ```java
-// (same code as before)
+package JPanelArrayTest;
+import javax.swing.*;
+import java.awt.*;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        try {
+            String answer = JOptionPane.showInputDialog(null, "Enter a #:", "Size Input", JOptionPane.INFORMATION_MESSAGE);
+
+            int enteredNum = Integer.parseInt(answer);
+
+            Main.setTiles(enteredNum, enteredNum);
+
+        } catch(Exception e) {
+            System.err.println("No variables were entered, or number was too large!.\nEntered 16x16 as a default numbers.");
+
+            int enteredNum1 = 16;
+            int enteredNum2 = 16;
+
+            JOptionPane.showMessageDialog(null, "No variable were entered, or number was too large!\n16x16 were set default numbers.", "ERROR", JOptionPane.ERROR_MESSAGE);
+            Main.setTiles(enteredNum1, enteredNum2);
+        }
+    }
+    private static void setTiles(int x, int y) {
+
+        ImageIcon icon = new ImageIcon("src/JPanelArrayTest/Jolly.png");
+        Image image = icon.getImage();
+        Image scaledImage = image.getScaledInstance(75, 75, Image.SCALE_SMOOTH);
+        ImageIcon scaledIcon = new ImageIcon(scaledImage);
+
+        Main.Frame frame = new Main.Frame("Box Colors");
+        frame.setIconImage(scaledIcon.getImage());
+
+        Tiles[] tile = new Tiles[x*y];
+
+        int sizeX = frame.getWidth() / x;
+        int sizeY = frame.getHeight() / y;
+
+        int tileX = 0;
+        int tileY = 0;
+
+        for (int i = 0; i < x * y; i++) {
+            tile[i] = new Tiles(sizeX, sizeY, tileX, tileY);
+            frame.add(tile[i]);
+
+            tileX += sizeX;
+
+            if (tileX >= frame.getWidth()) {
+                tileX = 0;
+                tileY += sizeY;
+            }
+
+            System.out.println("Box #" + i + "\nX: " + tileX + "\nY: " + tileY);
+            frame.repaint();
+        }
+    }
+
+    public static class Frame extends JFrame {
+        Frame(String title) {
+            this.setTitle(title);
+            this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            this.setResizable(false);
+            this.setSize(500, 500);
+            this.getContentPane().setBackground(Color.WHITE);
+            this.setLocationRelativeTo(null);
+            this.setLayout(null);
+            this.setVisible(true);
+        }
+    }
+}
 ```
 
 ---
