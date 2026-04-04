@@ -27,7 +27,7 @@ When I’m not programing or building projects, I enjoy exploring new ideas, tes
 ## 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,github,eclipse,robloxstudio"/>
+  <img src="https://skillicons.dev/icons?i=java,github,eclipse,idea,robloxstudio"/>
 </p>
 
 - Primary Language: **Java** ☕  
