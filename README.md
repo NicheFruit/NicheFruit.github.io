@@ -35,7 +35,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
 - Interests: Shi, I'll do anything.  
 - Focus: Mostly clean, scalable, object-oriented applications
 
-🔗 GitHub: https://github.com/NicheFruit
+🔗 GitHub: [https://github.com/NicheFruit](https://github.com/NicheFruit)
 
 ---
 
