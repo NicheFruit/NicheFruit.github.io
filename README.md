@@ -57,7 +57,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
     <img src="https://img.shields.io/badge/Games-Coming%20Soon-blueviolet?style=for-the-badge&logo=unity"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Websites-informational?style=for-the-badge&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Websites-informational-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
