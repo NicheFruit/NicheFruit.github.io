@@ -28,7 +28,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
 ## 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,github,eclipse"/>
+  <img src="https://skillicons.dev/icons?i=java,github,eclipse,robloxstudio"/>
 </p>
 
 - ☕ Primary Language: **Java**
@@ -57,7 +57,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
     <img src="https://img.shields.io/badge/Games-Coming%20Soon-blueviolet?style=for-the-badge&logo=unity"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Websites-Portfolio-informational?style=for-the-badge&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Websites-informational?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
