@@ -17,11 +17,10 @@
 
 ## 🗞️ About Me
 
-I have a strong appreciation for creativity, abstract thinking, and unconventional ideas. My interests often blend imagination with technical exploration, resulting in unique perspectives on both everyday experiences and complex systems.
+I enjoy experimenting with concepts that challenge normal logic while staying organized and thoughtful. I’m always curious about how systems work, whether in code, design, or storytelling, and I enjoy breaking problems into pieces to find clever solutions.
 
-I enjoy experimenting with concepts that challenge traditional logic while maintaining a structured and thoughtful approach to problem-solving.
-
-Additionally, I am fascinated by how seemingly unrelated elements—whether in technology, culture, or storytelling—can intersect in unexpected and meaningful ways. This curiosity drives both my creative expression and my technical work.
+This curiosity inspires both my creative projects and my technical work, driving me to experiment, learn, and create things that are both functional and imaginative.
+When I’m not programing or building projects, I enjoy exploring new ideas, testing unconventional approaches, and pushing boundaries to see what’s possible. I like projects that mix logic and creativity, and I find satisfaction in turning abstract concepts into something tangible and useful.
 
 ---
 
