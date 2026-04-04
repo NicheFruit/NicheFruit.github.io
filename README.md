@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20&%20Frontend%20Development-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Kinda%20Active-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/NicheFruit?style=for-the-badge&logo=github"/>
 </p>
 
@@ -50,7 +50,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
 ## 📂 Downloads & Resources
 
 <p align="center">
-  <a href="https://sourceforge.net/projects/del/">
+  <a href="https://sourceforge.net/u/nichefruit/profile/">
     <img src="https://img.shields.io/badge/Downloads-SourceForge-orange?style=for-the-badge&logo=sourceforge"/>
   </a>
   <a href="#">
@@ -63,7 +63,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
   </a>
   <a href="https://forms.gle/DVhy9jQ45dG45J7z7">
-    <img src="https://img.shields.io/badge/Uploads-Google%20Forms-green?style=for-the-badge&logo=googleforms"/>
+    <img src="https://img.shields.io/badge/Uploads-Forms-green?style=for-the-badge&logo=googleforms"/>
   </a>
 </p>
 
