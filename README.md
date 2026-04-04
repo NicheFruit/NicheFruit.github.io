@@ -22,6 +22,7 @@ I have a strong appreciation for creativity, abstract thinking, and unconvention
 I enjoy experimenting with concepts that challenge traditional logic while maintaining a structured and thoughtful approach to problem-solving.
 
 Additionally, I am fascinated by how seemingly unrelated elements—whether in technology, culture, or storytelling—can intersect in unexpected and meaningful ways. This curiosity drives both my creative expression and my technical work.
+- I'm gonna be honest, that was all ChatGPT.
 
 ---
 
