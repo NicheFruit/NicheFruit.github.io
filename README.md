@@ -32,7 +32,7 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
 </p>
 
 - ☕ Primary Language: **Java**
-- Interests: Shi, anything.
+- Interests: Shi, I'll do anything.
 - Focus: Mostly clean, scalable, object-oriented applications
 
 🔗 GitHub: https://github.com/NicheFruit
