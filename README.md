@@ -1,6 +1,10 @@
 <link rel="shortcut icon" type="image/png" href="appleT2.png">
 
-<h1 align="center">🍎 NicheFruit</h1>
+<h1 align="center">NicheFruit</h1>
+
+<p align="center">
+  <img src="appleT2.png" width="150" alt="NicheFruit Logo"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -24,70 +28,21 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
 ## 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=java,github,eclipse"/>
 </p>
 
 - ☕ Primary Language: **Java**
-- 🧠 Interests: Data Structures, Concurrency, System Design
-- ⚙️ Focus: Clean, scalable, object-oriented applications
+- Interests: Shi, anything.
+- Focus: Mostly clean, scalable, object-oriented applications
 
 🔗 GitHub: https://github.com/NicheFruit
 
 ---
 
-## 🚀 Advanced Java Example
+##  Java Example
 
 ```java
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.Function;
-
-// Advanced example using generics, multithreading, and functional programming
-
-public class DataProcessor<T, R> {
-
-    private final ExecutorService executor = Executors.newFixedThreadPool(4);
-    private final Function<T, R> transformer;
-
-    public DataProcessor(Function<T, R> transformer) {
-        this.transformer = transformer;
-    }
-
-    public List<R> processBatch(List<T> inputData) throws InterruptedException {
-        List<Future<R>> futures = new ArrayList<>();
-
-        for (T item : inputData) {
-            futures.add(executor.submit(() -> transformer.apply(item)));
-        }
-
-        List<R> results = new ArrayList<>();
-        for (Future<R> future : futures) {
-            try {
-                results.add(future.get());
-            } catch (ExecutionException e) {
-                System.err.println("Error processing item: " + e.getMessage());
-            }
-        }
-
-        return results;
-    }
-
-    public void shutdown() {
-        executor.shutdown();
-    }
-
-    public static void main(String[] args) throws InterruptedException {
-        DataProcessor<Integer, String> processor =
-            new DataProcessor<>(num -> "Processed Value: " + (num * num));
-
-        List<Integer> data = Arrays.asList(1, 2, 3, 4, 5);
-
-        List<String> results = processor.processBatch(data);
-        results.forEach(System.out::println);
-
-        processor.shutdown();
-    }
-}
+// (same code as before)
 ```
 
 ---
@@ -114,21 +69,6 @@ public class DataProcessor<T, R> {
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicheFruit&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicheFruit&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## ✨ Fun Fact
-
-> Creativity and logic are not opposites — they are most powerful when combined.
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting!
+  Thanks for visiting!
 </p>
