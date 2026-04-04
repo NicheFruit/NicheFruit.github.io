@@ -3,7 +3,7 @@
 <h1 align="center">NicheFruit</h1>
 
 <p align="center">
-  <img src="appleT2.png" width="150" alt="NicheFruit Logo"/>
+  <img src="appleT2.png" width="300" alt="NicheFruit Logo"/>
 </p>
 
 <p align="center">
@@ -31,15 +31,15 @@ Additionally, I am fascinated by how seemingly unrelated elements—whether in t
   <img src="https://skillicons.dev/icons?i=java,github,eclipse,robloxstudio"/>
 </p>
 
-- Primary Language: **Java** ☕
-- Interests: Shi, I'll do anything.
+- Primary Language: **Java** ☕  
+- Interests: Shi, I'll do anything.  
 - Focus: Mostly clean, scalable, object-oriented applications
 
 🔗 GitHub: https://github.com/NicheFruit
 
 ---
 
-##  Java Example
+## Java Example
 
 ```java
 // (same code as before)
