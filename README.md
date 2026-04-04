@@ -127,13 +127,16 @@ public class Main {
     <img src="https://img.shields.io/badge/Games-Coming%20Soon-blueviolet?style=for-the-badge&logo=unity"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Websites-Coming%20Sooon-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Websites-Coming%20Soon-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
   </a>
   <a href="https://forms.gle/DVhy9jQ45dG45J7z7">
     <img src="https://img.shields.io/badge/Uploads-Forms-green?style=for-the-badge&logo=googleforms"/>
+  </a>
+  <a href="https://stackoverflow.com/users/32583685/niche-fruit">
+    <img src="https://img.shields.io/badge/StackOverflow-Niche%20Fruit-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
 
