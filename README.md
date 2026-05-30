@@ -132,6 +132,9 @@ public class Main {
   <a href="#">
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Additional-Projects-blue?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
