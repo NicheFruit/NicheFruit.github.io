@@ -124,16 +124,13 @@ public class Main {
     <img src="https://img.shields.io/badge/Downloads-SourceForge-orange?style=for-the-badge&logo=sourceforge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Unity-Coming%20Soon-blueviolet?style=for-the-badge&logo=unity"/>
+    <img src="https://img.shields.io/badge/Additional-Projects-blue?style=for-the-badge&logo=github"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Java-Coming%20Soon-FF0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Additional-Projects-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
