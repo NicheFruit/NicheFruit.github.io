@@ -123,8 +123,8 @@ public class Main {
   <a href="https://sourceforge.net/u/nichefruit/profile/">
     <img src="https://img.shields.io/badge/Downloads-SourceForge-orange?style=for-the-badge&logo=sourceforge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Additional-Projects-blue?style=for-the-badge&logo=github"/>
+  <a href="https://nichefruit.itch.io/">
+    <img src="https://img.shields.io/badge/Itch IO-Projects-blue?style=for-the-badge&logo=github"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Java-Coming%20Soon-FF0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
