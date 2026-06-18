@@ -124,7 +124,7 @@ public class Main {
     <img src="https://img.shields.io/badge/Downloads-SourceForge-orange?style=for-the-badge&logo=sourceforge"/>
   </a>
   <a href="https://nichefruit.itch.io/">
-    <img src="https://img.shields.io/badge/Itch IO-Projects-blue?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Projects-Games-purple?style=for-the-badge&logo=red"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Java-Coming%20Soon-FF0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
