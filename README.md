@@ -126,10 +126,10 @@ public class Main {
     <img src="https://img.shields.io/badge/Downloads-SourceForge-orange?style=for-the-badge&logo=sourceforge"/>
   </a>
   <a href="https://nichefruit.itch.io/">
-    <img src="https://img.shields.io/badge/Projects-Games-purple?style=for-the-badge&logo=red"/>
+    <img src="https://img.shields.io/badge/itch.io-Projects-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Java-Coming%20Soon-FF0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-Coming%20Soon-f89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Tutorials-Videos-red?style=for-the-badge&logo=youtube"/>
