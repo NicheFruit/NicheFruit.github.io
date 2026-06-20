@@ -35,6 +35,7 @@ When I’m not programing or building projects, I enjoy exploring new ideas, tes
 - Focus: Mostly clean, scalable, object-oriented applications
 
 🔗 GitHub: [https://github.com/NicheFruit](https://github.com/NicheFruit)
+🔗 Itch IO: [https://nichefruit.itch.io/](https://nichefruit.itch.io/)
 
 ---
 
