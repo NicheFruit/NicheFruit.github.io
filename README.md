@@ -139,5 +139,4 @@ public class Main {
 ---
 
 <p align="center">
-  Thanks for visiting!
 </p>
