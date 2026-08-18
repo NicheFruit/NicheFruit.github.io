@@ -3,7 +3,7 @@
 <h1 align="center">NicheFruit</h1>
 
 <p align="center">
-  <img src="appleT2.png" width="400" alt="NicheFruit Logo"/>
+  <img src="appleMonkeys.png" width="450" alt="NicheFruit Logo"/>
 </p>
 
 <p align="center">
