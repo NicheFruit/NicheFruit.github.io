@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20&%20Frontend%20Development-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Kinda%20Active-brightgreen?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=NicheFruit&style=for-the-badge&color=red" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/NicheFruit?style=for-the-badge&logo=github"/>
